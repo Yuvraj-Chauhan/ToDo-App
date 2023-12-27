@@ -11,8 +11,8 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   List todoList = [
-    ["Make Tut", false],
-    ["Do Exercise", false],
+    ["Task 1", false],
+    ["Task 2", false],
   ];
 
   void saveNewTask() {
