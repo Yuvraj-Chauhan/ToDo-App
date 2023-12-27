@@ -1,3 +1,3 @@
-# To DO Application
+# To-Do Application
 
 Made Using Flutter.
